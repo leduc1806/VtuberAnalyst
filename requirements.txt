@@ -1,2 +1,6 @@
 # Youtube API
 google-api-python-client
+# Youtube chat
+chat-downloader
+# Progress bar
+tqdm
